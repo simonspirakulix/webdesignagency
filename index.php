@@ -16,6 +16,8 @@
   <body>
 <!-- navbar -->
 
+<?php phpinfo(); ?>
+
 
   </body>
 </html>
